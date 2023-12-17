@@ -23,4 +23,4 @@ ggplot(
   ) +
   scale_color_colorblind()
 
-plot(gg)
+# plot(gg)
